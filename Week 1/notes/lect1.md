@@ -1,0 +1,1 @@
+Electroencephalogram records the voltages produced by the brain electrical activity by placing electrodes on the scalp
